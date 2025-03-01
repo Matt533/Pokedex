@@ -25,3 +25,4 @@ Pokex App is an interactive application that allows users to explore Pokémon, s
 4. Open in browser:
    - ctrl + click -> http://localhost:3000
    
+- Application is deployed on netlify. Link is in the description!
