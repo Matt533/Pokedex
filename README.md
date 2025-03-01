@@ -8,10 +8,10 @@ Pokex App is an interactive application that allows users to explore Pokémon, s
 - **Search by Index** - Each pokemon has unique index number, so we can find the one we are looking for by its index.
 
 ## React.js & FantaCSS
-**useState & useEffect** - I have used useState for each component for its local state and also useEffect for side rendering and displaying data from Pokedex API.
-**API Calling** - For getting the data from the API, i have used Axios with async functions to get the response and convert it into JSON objects.
-**props Drilling** - Instead of using some sort of context, i used property drilling where i passed properties from one component to another.
-**CSS Layout** - For the style and design i used a preset of FantaCSS Style.
+- **useState & useEffect** - I have used useState for each component for its local state and also useEffect for side rendering and displaying data from Pokedex API.
+- **API Calling** - For getting the data from the API, i have used Axios with async functions to get the response and convert it into JSON objects.
+- **props Drilling** - Instead of using some sort of context, i used property drilling where i passed properties from one component to another.
+- **CSS Layout** - For the style and design i used a preset of FantaCSS Style.
 
 ## Installation
 
