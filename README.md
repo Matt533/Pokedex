@@ -16,12 +16,12 @@ Pokex App is an interactive application that allows users to explore Pokémon, s
 ## Installation
 
 1. Clone the repository:
-   -git clone https://https://github.com/Matt533/Pokedex
+   - git clone https://https://github.com/Matt533/Pokedex
 2. Go into project directory:
    - cd pokedex
 3. Install dependencies and run server:
-   -npm install
-   -npm run dev
+   - npm install
+   - npm run dev
 4. Open in browser:
    - ctrl + click: localhost://3000
    
