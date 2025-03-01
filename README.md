@@ -23,5 +23,5 @@ Pokex App is an interactive application that allows users to explore Pokémon, s
    - npm install
    - npm run dev
 4. Open in browser:
-   - localhost://3000
+   - ctrl + click -> http://localhost:3000
    
